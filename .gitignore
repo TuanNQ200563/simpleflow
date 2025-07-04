@@ -1,0 +1,5 @@
+.venv
+
+# Local configuration files
+*.env
+*.local
