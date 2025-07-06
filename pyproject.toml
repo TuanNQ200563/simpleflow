@@ -12,6 +12,19 @@ uvicorn = "^0.35.0"
 pydantic-settings = "^2.10.1"
 rq = "^2.4.0"
 redis = "^6.2.0"
+alembic = "^1.16.2"
+sqlmodel = "^0.0.24"
+psycopg2 = "^2.9.10"
+Authlib = "1.6.0"
+cffi = "1.17.1"
+cryptography = "45.0.5"
+pycparser = "2.22"
+httpx = "^0.28.1"
+python-multipart = "^0.0.20"
+itsdangerous = "^2.2.0"
+pyjwt = "^2.10.1"
+passlib = {extras = ["bcrypt"], version = "^1.7.4"}
+bcrypt = "4.0.1"
 
 
 [build-system]
